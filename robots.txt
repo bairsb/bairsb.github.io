@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bairsb.github.io/Lkt/sitemap.Lkt.gz
